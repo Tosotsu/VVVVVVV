@@ -105,13 +105,17 @@ https://github.com/user-attachments/assets/b3d10eef-654f-4592-8c9e-cf39cec5089d
 -IDEA : To track principal around the college, so student and facaulty can know the position of prinicpal reliably.
  > so for students can also know their attendance without the help of teacher logged attendance or false atttendance
 
+<img width="809" height="34" alt="image" src="https://github.com/user-attachments/assets/ad05e550-a6a8-4c11-b921-0343519eea05" />
+
+- Fights the unexistances of no-info attendance system
 
 ### The Solution (that nobody asked for)
+
 - A full-blown computer vision pipeline that tracks everyone across halls, entrances, and classrooms to produce heatmaps of favorite campus detours.
 
 -Uses security camera to log the attendance and protray it on college made map
 
-- Simulated feed of security has been obtained of a student walking to and form it
+- Track Prinicple around the college to know availiability
 
 ## Technical Details
 
@@ -171,9 +175,7 @@ python debug_faces.py
 
 ## Project Documentation
 
-### For Software
-
-#### Screenshots 
+Provided in Project Demo
 
 
 #### Diagrams
