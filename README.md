@@ -10,3 +10,7 @@ me and fresher quest for attendance
 Uses security camera to log the attendance and protray it on college made map
 
 > Simulated feed of security has been obtained of a student walking to and form it
+
+Successfully got the Mobile UI To work
+
+Backend has been feed videos and locations
