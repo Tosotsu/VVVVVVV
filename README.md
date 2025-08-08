@@ -20,7 +20,51 @@ Team Members
 
 ## Project Demo
 
-Mobile UI For P-tracking
+# Attendance Tracking based on Person (classroom)
+
+
+
+https://github.com/user-attachments/assets/7d079583-8fa5-4102-8621-a75f0ee131de
+
+
+
+
+https://github.com/user-attachments/assets/112a70d6-18e7-4a8d-8444-a9218f9a044c
+
+
+
+
+https://github.com/user-attachments/assets/2c5ef140-aec1-47d3-b80f-1f3d76b6cab6
+
+# Finding Location OF Principle
+
+
+
+https://github.com/user-attachments/assets/26348f98-ecb1-4b1b-a268-537b21b6780d
+
+
+
+https://github.com/user-attachments/assets/a42ceafd-d5bb-4c50-9676-909f63d71e26
+
+
+
+https://github.com/user-attachments/assets/9e2c9896-7fc9-4751-9c00-f6c6d58b4809
+
+
+Uploading mainentrance.mp4…
+
+
+https://github.com/user-attachments/assets/ee43cc7e-165d-406d-8291-95c9d4986014
+
+
+https://github.com/user-attachments/assets/45265ac1-8d26-4dbc-b336-06e62b85ae47
+
+
+https://github.com/user-attachments/assets/b3d10eef-654f-4592-8c9e-cf39cec5089d
+
+
+# Mobile UI For P-tracking
+
 <img width="302" height="656" alt="Image 08-08-2025 at 3 24 PM (1)" src="https://github.com/user-attachments/assets/44ef7ff7-a215-4b6e-ae07-82d5f5a4c344" />
 
 <img width="302" height="656" alt="Image 08-08-2025 at 3 24 PM (2)" src="https://github.com/user-attachments/assets/8aad6fcb-474f-4e56-ac13-3b3bf6247ec1" />
@@ -28,6 +72,23 @@ Mobile UI For P-tracking
 <img width="302" height="656" alt="Image 08-08-2025 at 3 24 PM" src="https://github.com/user-attachments/assets/d2334fef-48e4-4167-9591-8b5979a13e98" />
 
 <img width="302" height="656" alt="Image 08-08-2025 at 3 25 PM" src="https://github.com/user-attachments/assets/a425f2e7-1301-491c-960d-fb62372700ed" />
+
+# WEB UI
+
+<img width="1336" height="764" alt="Screenshot 2025-08-08 at 3 45 14 PM" src="https://github.com/user-attachments/assets/42f34623-60eb-440b-81b6-1c2c19cdcf4e" />
+
+<img width="1336" height="764" alt="Screenshot 2025-08-08 at 3 45 20 PM" src="https://github.com/user-attachments/assets/5663a32f-4e32-4ab7-8e24-1b1e0072e69d" />
+
+<img width="1336" height="764" alt="Screenshot 2025-08-08 at 3 45 33 PM" src="https://github.com/user-attachments/assets/67c97cae-d490-4d03-bb9b-977ccb647543" />
+
+<img width="1336" height="764" alt="Screenshot 2025-08-08 at 3 45 42 PM" src="https://github.com/user-attachments/assets/27a1fc4c-1328-42ea-84dc-e833bef5f340" />
+
+<img width="1336" height="764" alt="Screenshot 2025-08-08 at 3 45 47 PM" src="https://github.com/user-attachments/assets/290d73ab-97ea-4e17-85cf-01c521af85e8" />
+
+
+<img width="1336" height="764" alt="Screenshot 2025-08-08 at 3 45 53 PM" src="https://github.com/user-attachments/assets/fa9b36b9-360a-40e4-85ec-5a296baa35a2" />
+
+
 
 
 ### Video
