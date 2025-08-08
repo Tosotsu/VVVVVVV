@@ -191,7 +191,7 @@ python debug_faces.py
 - Implemented:
   - Auto-discovery of videos in `data/`
   - CPU-only YOLOv8 inference
-  - InsightFace-based recognition (macOS-friendly)
+  - InsightFace-based recognition 
   - Unique track counting, deduping, and visualization exports to `outputs/`
   - Attendance logging with identities where recognized
 
