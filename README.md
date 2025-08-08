@@ -89,7 +89,9 @@ https://github.com/user-attachments/assets/b3d10eef-654f-4592-8c9e-cf39cec5089d
 <img width="1336" height="764" alt="Screenshot 2025-08-08 at 3 45 53 PM" src="https://github.com/user-attachments/assets/fa9b36b9-360a-40e4-85ec-5a296baa35a2" />
 
 
+Live Wesbite Prototype
 
+https://blog-entry-78449219.figma.site/
 
 ### Video
 
