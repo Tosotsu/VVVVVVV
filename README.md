@@ -18,6 +18,20 @@ Team Members
 	•	- **Team Lead**: Fresher Lonappan - SNMIMT
 	•	- **Member 2**: Navaneeth - SMIMT
 
+## Project Demo
+
+Mobile UI For P-tracking
+<img width="302" height="656" alt="Image 08-08-2025 at 3 24 PM (1)" src="https://github.com/user-attachments/assets/44ef7ff7-a215-4b6e-ae07-82d5f5a4c344" />
+
+<img width="302" height="656" alt="Image 08-08-2025 at 3 24 PM (2)" src="https://github.com/user-attachments/assets/8aad6fcb-474f-4e56-ac13-3b3bf6247ec1" />
+
+<img width="302" height="656" alt="Image 08-08-2025 at 3 24 PM" src="https://github.com/user-attachments/assets/d2334fef-48e4-4167-9591-8b5979a13e98" />
+
+<img width="302" height="656" alt="Image 08-08-2025 at 3 25 PM" src="https://github.com/user-attachments/assets/a425f2e7-1301-491c-960d-fb62372700ed" />
+
+
+### Video
+
 ### Project Description
 - **What it does**: Multi-camera person detection, tracking, and face-based identification across SNMIMT campus using YOLOv8 and InsightFace. Generates attendance logs and analytics and shows a live dashboard.
 - **How it works**: Processes CCTV footage, identifies locations, tracks movements between buildings based on campus map, and correlates identities across cameras.
@@ -102,13 +116,10 @@ python debug_faces.py
 
 
 #### Diagrams
-- ![Workflow](Add your workflow diagram here)
+- ![Workflow]
   - Camera feeds → YOLOv8 detection + tracking → face recognition (InsightFace) → cross-camera correlation → attendance + analytics → Streamlit dashboard.
 
 
-## Project Demo
-
-### Video
 
 ### Additional Demos
 - Provide Security Footage(entrance, halls, classrooms) with overlays and attendance logs shown.
